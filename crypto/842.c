@@ -10,7 +10,7 @@
  * Rewrite: Dan Streetman <ddstreet@ieee.org>
  *
  * This is the software implementation of compression and decompression using
- * the 842 format.  This uses the software 842 library at lib/842/ which is
+ * the 842 format.  This uses the software 842 library at lib/842/ which is 
  * only a reference implementation, and is very, very slow as compared to other
  * software compressors.  You probably do not want to use this software
  * compression.  If you have access to the PowerPC 842 compression hardware, you
