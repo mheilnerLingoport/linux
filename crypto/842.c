@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
- * Cryptographic API for the 842 software compression algorithm.
+ * Cryptographic API for the 842 software compression algorithm. MARY
  *
  * Copyright (C) IBM Corporation, 2011-2015
  *
