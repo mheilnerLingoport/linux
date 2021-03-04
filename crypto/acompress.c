@@ -3,7 +3,7 @@
  * Asynchronous Compression operations
  *
  * Copyright (c) 2016, Intel Corporation
- * Authors: Weigang Li <weigang.li@intel.com>
+ * Authors: Weigang Li <weigang.li@intel.com> MARY2
  *          Giovanni Cabiddu <giovanni.cabiddu@intel.com>
  */
 #include <linux/errno.h>
